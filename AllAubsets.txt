@@ -1,0 +1,1 @@
+Printing all the subsets of vector using C++ STL 
